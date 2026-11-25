@@ -1,0 +1,8 @@
+# Pastas locais ignoradas
+Salvar/
+Documentos separados/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+~$*.docx
